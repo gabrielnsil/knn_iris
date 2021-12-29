@@ -8,7 +8,7 @@
 
 # :bar_chart: Classifying plants of *Iris* genus using K-nearest neighbor algorithm
 
-The Iris dataset it is one of the most known datasets out there. Here I created a simple model using the algorithm KNN (k-Nearest Neighbor) to predict the species a instance based on some features of the plant like sepal/petal length and width.
+The *Iris* dataset is one of the most known datasets out there. Here I created a simple model using the algorithm KNN (k-Nearest Neighbor) to predict the species of a instance based on some features of the plant like sepal/petal length and width.
 
 ![image](https://user-images.githubusercontent.com/46875030/147704571-3decc49f-363e-4168-a603-daecc252d5f1.png)
 
